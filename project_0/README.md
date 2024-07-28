@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление 
-[1.Описание_проекта]()
-[2.Какой_кейс_решаем?]()
-[3.Краткая_информация_о_данных]()
-[4.Этапы_работы_над_проектом]()
-[5.Результат]()
-[6.Вывод]()
+[1. Описание проекта](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md"Краткая-информация-о-данных)
+[4.Этапы работы над проектом](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)
+[5. Результат](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md#Результат)
+[6. Вывод](https://github.com/1future1/sf_data_science/blob/main/project_0/README.md#Вывод)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
-:arrow_up[к_оглавлению]()
+:arrow_up[к оглавлению]()
 
 ### Какой кейс решаем
 Нужно написать программу, которая угадывает число за минимальное число попыток.
@@ -29,5 +29,5 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up[к_оглавлению]()
+:arrow_up[к оглавлению]()
 
